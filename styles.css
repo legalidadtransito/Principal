@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #fff; /* Cambiar a blanco o eliminar para que sea transparente */
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: black; /* Cambiar a blanco si el fondo del encabezado es oscuro */
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
