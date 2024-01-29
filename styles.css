@@ -18,6 +18,10 @@ main {
     padding: 20px;
 }
 
+#informacion p {
+    font-size: 1.2em; /* Ajusta el tamaño de la fuente según sea necesario */
+}
+
 footer {
     background-color: #f0f0f0;
     text-align: center;
